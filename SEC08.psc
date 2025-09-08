@@ -1,3 +1,4 @@
+//Eduardo Febles Magaña 00599038 Ing. Animacion Digital
 Algoritmo SEC08
 	Definir Velocidad, Espacio, Tiempo Como Real;
 	Escribir "Introduzca el espacio recorrido (Km): ";
@@ -7,3 +8,4 @@ Algoritmo SEC08
 	Velocidad <- (Espacio*1000) / (Tiempo*60);
 	Escribir "La velocidad es: ", Velocidad, "m/s";
 FinAlgoritmo
+
