@@ -1,3 +1,4 @@
+//Eduardo Febles Magaña 00599038 Ing. Animacion Digital
 Algoritmo SEC10
 	Definir A, B, C, Resultado Como Real;
 	Escribir "Introduzca una variable: ";
@@ -11,3 +12,4 @@ Algoritmo SEC10
 	
 	
 FinAlgoritmo
+
