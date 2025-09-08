@@ -1,4 +1,4 @@
-//Eduardo Febles Magaña 00599038
+//Eduardo Febles Magaña 00599038 Ing. Animacion Digital
 Algoritmo SEC05
 	Definir  Largo, Ancho Como Real;
 	Escribir "Introduzca el largo: ";
@@ -8,4 +8,5 @@ Algoritmo SEC05
 	Escribir "El area del rectangulo es ", Largo * Ancho;
 	
 FinAlgoritmo
+
 
