@@ -1,3 +1,4 @@
+//Eduardo Febles Magaña 00599038
 Algoritmo SEC03
 	Definir A, B Como Entero
 	Definir S, R, D, M Como Entero;
@@ -14,3 +15,4 @@ Algoritmo SEC03
 	Escribir "La multiplicacion es " , M;
 	Escribir "La division es ", D;
 FinAlgoritmo
+
