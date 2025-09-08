@@ -1,3 +1,4 @@
+//Eduardo Febles Magaña 00599038
 Algoritmo SEC04
 	Definir A, B Como Entero
 	Definir S, R, D, M Como Entero;
@@ -15,3 +16,4 @@ Algoritmo SEC04
 	Escribir "La division es ", D;
 	
 FinAlgoritmo
+
