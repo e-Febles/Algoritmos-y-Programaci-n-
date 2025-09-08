@@ -1,4 +1,4 @@
-Algoritmo SEC06
+//Eduardo Febles Magaña 00599038 Ing. Animacion Digital
 	Definir Base, Altura Como Real;
 	Escribir "Introduzca la Base: ";
 	Leer Base;
@@ -7,3 +7,4 @@ Algoritmo SEC06
 	Escribir "El area del triangulo es: ", (Base * Altura) / 2;
 	
 FinAlgoritmo
+
