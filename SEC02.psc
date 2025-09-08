@@ -1,3 +1,4 @@
+//Eduardo Febles Magaña 00599038
 Algoritmo SEC02
 	Definir A, B, C Como Entero;
 	Escribir "Introduzca un numero entero"
@@ -7,3 +8,4 @@ Algoritmo SEC02
 	C <- A + B
 	Escribir C
 FinAlgoritmo
+
